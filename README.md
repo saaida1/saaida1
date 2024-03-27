@@ -16,8 +16,12 @@
 </div>
 
 
+
+
+
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJpdDZ0M3poNmowZjFjNWRhMTh0ZjcyempyNGY3ZjNpNm5vYms0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="400" height="200"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/V4nH3lS1nG.png" alt="TryHackMe">
+
 </div>
 
 ---
