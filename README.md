@@ -21,6 +21,12 @@
 
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/V4nH3lS1nG.png" alt="TryHackMe">
+  
+  📂 [My CV (English version)](https://drive.google.com/file/d/1p_lxqQV7X-6y9hVD_mR8Smf7l6A7zNly/view?usp=sharing)
+  
+  📂 [My CV (French version)](https://drive.google.com/file/d/1y_UttCpj4JHCqkwhI0ogMboa1uREg3AY/view?usp=sharing)
+
+
 
 </div>
 
