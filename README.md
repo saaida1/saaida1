@@ -40,7 +40,6 @@ I am a cybersecurity student <img src="https://media.giphy.com/media/077i6AULCXc
   
 ---
 ### 📱: How to reach me:
-- 🤙: +212 635085260
 - 📧: saaidahnais1@gmail.com
 
 
