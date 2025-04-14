@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam8xNG4wNWloZ2NvNnJ6cm1sNTJwcmk4cm1qcGRraHozZ2R0eXZodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/saaida-hnais/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
   <br/>
    <img src="https://komarev.com/ghpvc/?username=saaida1&style=flat-square&color=blue" alt=""/>
    
@@ -19,28 +17,15 @@
 
 
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/V4nH3lS1nG.png" alt="TryHackMe">
-  
-  
 
-
-
-</div>
 
 ---
 
 ### :woman_technologist: About Me :
-I am a cybersecurity student <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="30">
-- :telescope: I am passionate about cybersecurity and consistently exploring new tactics in the field;
+I am a DevSecOps & Cloud engineer! 
 
-- :seedling:I have a keen interest in Security Operations Center (SOC), DevOps, and DevSecOps;
-
-- :zap: In my free time, I learn on the TryHackMe platform and participate in CTFs.
   
----
-### 📱: How to reach me:
-- 📧: saaidahnais1@gmail.com
+
 
 
 
